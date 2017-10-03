@@ -2,7 +2,7 @@
 A simple dashboard to launch modularized apps into distinct Symphony modules.
 
 ## Rationale
-
+FinTech Studios believes the future of app interoperability in modern workflows is rooted in the ability of apps to "widgetize", exposing component pieces for individual consumption. In order to make this easier for both developers to build upon and consumers use, we build our Symphony Workspace Builder. This makes it easy for developers to expose their widgets (and third party widgets) to end users in a way that makes it simple to build complex inter-app workspaces.
 
 ## Setup
 `index.js` gives simple abstractions to the Symphony API to do some of the Symphony communication for you,
